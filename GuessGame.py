@@ -1,7 +1,6 @@
 import random
 # from Score import add_score
 
-
 # start play
 def play(difficulty):
     game_res = False
